@@ -1,29 +1,28 @@
-Descripción
+**Descripción**
 
-Este programa simula la atención en un cajero bancario utilizando hilos en Python. Se ha implementado una interfaz gráfica con Tkinter para visualizar el proceso en tiempo real. Cada cliente es atendido en paralelo utilizando threading, y el tiempo de atención es aleatorio para simular una experiencia más realista.
+-Este programa simula la atención en un cajero bancario utilizando hilos en Python. Se ha implementado una interfaz gráfica con Tkinter para visualizar el proceso en tiempo real. Cada cliente es atendido en paralelo utilizando threading, y el tiempo de atención es aleatorio para simular una experiencia más realista.
 
-Características
+**Características**
 
-Uso de hilos para atención en paralelo.
+-Uso de hilos para atención en paralelo.
 
-Interfaz gráfica con Tkinter.
+-Interfaz gráfica con Tkinter.
 
-Simulación de atención con tiempos aleatorios.
+-Simulación de atención con tiempos aleatorios.
 
-Scroll automático para visualizar el proceso.
+-Scroll automático para visualizar el proceso.
 
-Requisitos
+**Requisitos**
 
-Para ejecutar este programa, necesitas:
+-Para ejecutar este programa, necesitas:
 
-Python 3.x
+-Python 3.x
 
-Tkinter (incluido en la mayoría de distribuciones de Python)
+-Tkinter (incluido en la mayoría de distribuciones de Python)
 
-Uso
+**Uso**
 
-Al ejecutar el script, se abrirá una ventana con un botón "Iniciar Atención".
-
-Al presionar el botón, los clientes serán atendidos en paralelo.
+-Al ejecutar el script, se abrirá una ventana con un botón "Iniciar Atención".
+-Al presionar el botón, los clientes serán atendidos en paralelo.
 
 Se mostrará el progreso de la atención en la ventana.
