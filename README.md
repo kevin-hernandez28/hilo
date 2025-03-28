@@ -3,10 +3,10 @@
 
 **Características**
 
-Uso de hilos para atención en paralelo.
-Interfaz gráfica con Tkinter.
-Simulación de atención con tiempos aleatorios.
-Scroll automático para visualizar el proceso.
+Uso de hilos para atención en paralelo,
+ Interfaz gráfica con Tkinter,
+ Simulación de atención con tiempos aleatorios,
+ Scroll automático para visualizar el proceso.
 
 **Requisitos**
 
@@ -16,6 +16,6 @@ Tkinter (incluido en la mayoría de distribuciones de Python)
 
 **Uso**
 
-Al ejecutar el script, se abrirá una ventana con un botón "Iniciar Atención".
-Al presionar el botón, los clientes serán atendidos en paralelo.
-Se mostrará el progreso de la atención en la ventana.
+Al ejecutar el script, se abrirá una ventana con un botón "Iniciar Atención",
+ Al presionar el botón, los clientes serán atendidos en paralelo,
+ Se mostrará el progreso de la atención en la ventana.
